@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * get it Mapping classlevel (JavaBean, HttpServletRequest, Model, View, ModelAndView)
  */
 
-//@Controller
+//@Controller  
 public class ByPassController {
 
 	// by pass URL class
